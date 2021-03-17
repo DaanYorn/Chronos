@@ -1,11 +1,10 @@
 {
-  "name": "com.unity.aaa",
+  "name": "com.daan.chronos",
   "displayName": "Chronos",
   "version": "0.0.1",
   "description": "test,ahahah",
   "repository": {
     "type": "git",
-    "url": "http://192.168.50.184:1099/hypercasual/packages/chronos.git",
-    "revision": "dcedac21"
+    "url": "https://github.com/DaanYorn/Chronos.git"
   }
 }
